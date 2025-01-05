@@ -1,0 +1,8 @@
+@inproceedings{REPO121,
+    author = "Frenkel, Yarden and Vinker, Yael and Shamir, Ariel and Cohen-Or, Daniel",
+    booktitle = "European Conference on Computer Vision",
+    organization = "Springer",
+    pages = "181--198",
+    title = "{Implicit style-content separation using b-lora}",
+    year = "2025"
+}
